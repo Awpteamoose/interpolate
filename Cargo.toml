@@ -10,6 +10,6 @@ repository = "https://github.com/anowell/interpolate"
 readme = "README.md"
 
 [lib]
-crate-type = ["proc-macro"]
+proc-macro = true
 
 [dependencies]
